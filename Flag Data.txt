@@ -1,3 +1,3 @@
-flag name, gender identity, gender target, gender specific?, gender expression, gender intensity, attraction intensity, stripe 1 R, stripe 1 G, stripe 1 B, stripe 2 R, stripe 2 G, stripe 2 B, stripe 3 R, stripe 3 G, stripe 3 B, stripe 4 R, stripe 4 G, stripe 4 B, stripe 5 R, stripe 5 G, stripe 5 B, 
+flag name, gender identity, gender target, gender specific?, gender expression, gender identity intensity, attraction intensity, stripe 1 R, stripe 1 G, stripe 1 B, stripe 2 R, stripe 2 G, stripe 2 B, stripe 3 R, stripe 3 G, stripe 3 B, stripe 4 R, stripe 4 G, stripe 4 B, stripe 5 R, stripe 5 G, stripe 5 B, 
 
 Trans, 0.5, 0.5, 0, 0, 1, 0,   91, 206, 250,   245, 169, 184,   255, 255, 255,   245, 169, 184,   91, 206, 250,
