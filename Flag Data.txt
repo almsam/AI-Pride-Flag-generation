@@ -1,6 +1,6 @@
 flag name, gender identity, man?, woman?, attracted to men?, attratced to women?, gender specific?, gender expression, gender identity intensity, attraction intensity, stripe 1 R, stripe 1 G, stripe 1 B, stripe 2 R, stripe 2 G, stripe 2 B, stripe 3 R, stripe 3 G, stripe 3 B, stripe 4 R, stripe 4 G, stripe 4 B, stripe 5 R, stripe 5 G, stripe 5 B, 
 
-Trans, 0.5, 0.5, 0, 0, 1, 0,   91, 206, 250,   245, 169, 184,   255, 255, 255,   245, 169, 184,   91, 206, 250,
-WLW, 0, 0, 1, 0.5, 0, 1,       213, 45, 0,     255, 154, 86,    255, 255, 255,   209, 98, 164,    163, 2, 98
-MLM, 1, 1, 1, 0.5, 0, 1,       7, 141, 112,    152, 232, 193,   255, 255, 255,   123, 173, 226,   61, 26, 120
-Bi, 0.5, 
+Trans, 0.5, 1, 1, 0.5, 0.5, 0, 0, 1, 0,   91, 206, 250,   245, 169, 184,   255, 255, 255,   245, 169, 184,   91, 206, 250,
+WLW, 0, 0, 1, 0, 1, 1, 0.5, 0, 1,       213, 45, 0,     255, 154, 86,    255, 255, 255,   209, 98, 164,    163, 2, 98
+MLM, 1, 1, 0, 1, 0, 1, 0.5, 0, 1,       7, 141, 112,    152, 232, 193,   255, 255, 255,   123, 173, 226,   61, 26, 120
+Bi, 0.5, 1, 1, 1, 1, 0, 0.5, 0, 1,       
